@@ -1,0 +1,11 @@
+streamlit
+fastapi
+Openai
+uvicorn
+requests
+python-dotenv
+faiss-cpu
+boto3
+tenacity
+openai
+sagemaker
