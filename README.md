@@ -1,4 +1,4 @@
-#🧬 BioQueryAI
+# BioQueryAI
 
 ## AI-powered Biomedical Literature Query Engine
 
@@ -99,4 +99,5 @@ Research trend visualization dashboard
 
 Antara Shaw
 Bioinformatics & AI Researcher
+
 
