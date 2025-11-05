@@ -6,7 +6,7 @@ BioQueryAI is an intelligent biomedical search and analysis system that retrieve
 
 Built with Streamlit, LangChain, and PubMed API integration, BioQueryAI helps researchers, students, and analysts quickly extract insights from complex biological and clinical literature.
 
-<h3>🚀 Project Overview</h3>
+<h2>🚀 Project Overview</h2>
 
 Traditional PubMed searches return a list of papers, but understanding them takes hours.
 BioQueryAI solves this by combining AI-powered natural language querying with automated literature retrieval, enabling users to:
@@ -83,6 +83,7 @@ Research trend visualization dashboard
 
 👩‍🔬 Author
 Antara Shaw
+
 
 
 
