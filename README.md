@@ -1,6 +1,6 @@
-🧬 ##BioQueryAI
+#🧬 BioQueryAI
 
-AI-powered Biomedical Literature Query Engine
+## AI-powered Biomedical Literature Query Engine
 
 BioQueryAI is an intelligent biomedical search and analysis system that retrieves the latest research from PubMed and other scientific sources in real-time, processes it using AI-based embeddings, and provides users with context-aware answers to biomedical questions.
 
@@ -28,22 +28,19 @@ Streamlit for an interactive user interface
 Real-time PubMed API calls for live literature retrieval
 
 🧠 Core Features
-Feature	Description
-🔍 Live PubMed Retrieval	Fetches the most recent papers and abstracts directly using the PubMed API.
-🧬 AI-Powered Semantic Search	Understands biomedical queries contextually using embeddings.
-📄 Automated Summarization	Generates concise summaries of retrieved abstracts.
-⚡ Real-Time Query Interface	User-friendly Streamlit app for instant search and display.
-🧩 Modular Architecture	Easily extendable to other biomedical databases or local corpora.
+Feature          	                Description
+🔍 Live PubMed Retrieval    	  Fetches the most recent papers and abstracts directly using the PubMed API.
+🧬 AI-Powered Semantic Search  	Understands biomedical queries contextually using embeddings.
+📄 Automated Summarization	    Generates concise summaries of retrieved abstracts.
+⚡ Real-Time Query Interface	  User-friendly Streamlit app for instant search and display.
+🧩 Modular Architecture	        Easily extendable to other biomedical databases or local corpora.
+
+
 🏗️ Tech Stack
-
 Frontend: Streamlit
-
 Backend: Python (FastAPI optional)
-
 AI Engine: LangChain + OpenAI embeddings
-
 Data Source: PubMed API
-
 Containerization: Docker
 
 🧰 Installation
@@ -102,3 +99,4 @@ Research trend visualization dashboard
 
 Antara Shaw
 Bioinformatics & AI Researcher
+
